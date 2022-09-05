@@ -1,0 +1,6 @@
+*.html
+playwright/report
+.yarn
+.pnp.*
+.vscode
+storybook-static
