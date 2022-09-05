@@ -4,3 +4,4 @@ playwright/report
 .pnp.*
 .vscode
 storybook-static
+node_modules
